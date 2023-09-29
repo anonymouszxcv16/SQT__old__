@@ -14,6 +14,15 @@ SQT algorithm has one-core component: Std Q-Target formula, which is, min Q-valu
 
 ![SQTResults.jpg](SQTResults.jpg)
 
+# Installation
+
+```
+Gym 0.23.1
+MuJoCo 2.3.6
+PyTorch 2.0.0
+Python 3.10.9
+```
+
 # How to run it
 
 Run an experiment by `run.sh` file.
