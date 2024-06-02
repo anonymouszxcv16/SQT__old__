@@ -42,3 +42,15 @@ sh ./run.sh TD7+SQT Walker2d-v2 0 100000 1
 Our code is based on the code of TD7.
 
 `https://github.com/sfujim/TD7`
+
+# Cite
+```
+@misc{soffair2024sqt,
+      title={SQT -- std $Q$-target}, 
+      author={Nitsan Soffair and Dotan Di-Castro and Orly Avner and Shie Mannor},
+      year={2024},
+      eprint={2402.05950},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
